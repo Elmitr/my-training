@@ -12,3 +12,4 @@
 ??? ??????? ?? ?????? Pull Request
 \n\n## مرحبا! \n\nهذا المشروع تم إنشاؤه أثناء تعلم Git مع Grok.
 \n\n## تحديث جديد\n\nتم إضافة هذا السطر أثناء تعلم Git.
+\n\n## Advanced Git Learning\n\nLearning professional Git workflow with Grok.
